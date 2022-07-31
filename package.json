@@ -1,0 +1,28 @@
+{
+  "name": "ts-upload-sdk",
+  "version": "0.0.1",
+  "description": "ts封装上传sdk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaozhoa/ts-upload-sdk.git"
+  },
+  "keywords": [
+    "upload"
+  ],
+  "author": "zhang-zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaozhoa/ts-upload-sdk/issues"
+  },
+  "homepage": "https://github.com/zhaozhoa/ts-upload-sdk#readme",
+  "devDependencies": {
+    "rollup": "^2.77.2",
+    "rollup-plugin-dts": "^4.2.2",
+    "rollup-plugin-typescript2": "^0.32.1",
+    "typescript": "^4.7.4"
+  }
+}
